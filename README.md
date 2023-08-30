@@ -1,6 +1,7 @@
 # Tenzies App
 
 Project from course Learn React (Coursera)
+You can see the working version on this link: https://extraordinary-bonbon-581292.netlify.app
 
 # Game Description
 
