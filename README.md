@@ -29,7 +29,7 @@ Simple single player Tenzie game. You need to collect 10 dice of the same value 
 - [x] Roll again while holding die/dice
 - [x] Activate confetti after successfully completing game 
 - [x] Extras
-    - [x] Put dots on dice instead of numbers
+    - [ ] Put dots on dice instead of numbers
     - [x] Track and display number of rolls
     - [x] Track and display time it took to win
     - [x] Save the best time in localStorage
